@@ -1,0 +1,21 @@
+{
+    "ota": [
+            {
+              "files" : [		
+                          {
+                            "slot_number":0,
+                            "length":42248,
+                            "URL":"http://192.168.42.95:8000/test_app.bin",
+                            "digest":"3804B86D3185BF12A5CAB1128A3F99127B4BCF9CE0AEF98980E37B4D4E7730CF"
+                          }
+                      ]
+            },
+            {
+                "Version": 1,
+                "URL": "http://192.168.42.95:8000/ota_app.bin",
+                "Digest": "812829d9cf88b9fa94d80643f08f21f8342a56211c97d427d0ab2910dee6c9f3",
+                "Signature": "2+2R/43x3FvNoV8anNW2M5ndo+JlFNzHSjJ+iwL68w1v5XMcBPMx4+3u5lBFejUNU/MLLoP13zxwd45f6MCySQ==",
+                "EraseVer": false
+            }
+        ]
+}

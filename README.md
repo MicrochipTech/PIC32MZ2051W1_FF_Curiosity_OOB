@@ -6,23 +6,15 @@ Features: **| Secure Cloud connectivity | Voice Control |**
 
 [**Frequently Asked Questions**](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB/blob/master/faq.md)
 
-[![Latest release](https://img.shields.io/github/v/release/MicrochipTech/PIC32MZW1_Curiosity_OOB?sort=semver&style=for-the-badge)](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB/releases/latest)
-[![Latest release date](https://img.shields.io/github/release-date/MicrochipTech/PIC32MZW1_Curiosity_OOB?style=for-the-badge)](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/MicrochipTech/PIC32MZ2051W1_FF_Curiosity_OOB?sort=semver&style=for-the-badge)](https://github.com/MicrochipTech/PIC32MZ2051W1_FF_Curiosity_OOB/releases/latest)
+[![Latest release date](https://img.shields.io/github/release-date/MicrochipTech/PIC32MZ2051W1_FF_Curiosity_OOB?style=for-the-badge)](https://github.com/MicrochipTech/PIC32MZ2051W1_FF_Curiosity_OOB/releases/latest)
 
 
 ## Introduction
 
 1.  This page describes the Out of Box (OOB) operation of the PIC32 WFI32E Curiosity board .
 
-2.  For accessing pre-built hex files, release notes, and known issues, please click the [**Releases** tab](https://github.com/MicrochipTech/PIC32MZW1_Curiosity_OOB/releases).
-
-You can also watch a quick introduction to this demo .
-
-<p align="center">
-<a href="https://youtu.be/QzlssnBK0HY" target="_blank">
-<img src="resources/media/oobThumbnail.png" 
-alt="Unbox the new WFI32E01 Curiosity evaluation board to see how to connect to the cloud securely. Then interact with features on the board with Amazon Alexa." width="480"></a>
-</p>
+2.  For accessing pre-built hex files, release notes, and known issues, please click the [**Releases** tab](https://github.com/MicrochipTech/PIC32MZ2051W1_FF_Curiosity_OOB/releases).
 
 ## Prerequisites
 
@@ -34,7 +26,7 @@ alt="Unbox the new WFI32E01 Curiosity evaluation board to see how to connect to 
 
 - USB-UART converter (optional)
 
-***Note:*** Please use MPLABX 5.45 or higher with MHC 3.6.2 or higher to edit and regenerate the project 
+***Note:*** Please use MPLABX 6.20 or higher with MHC 3.6.2 or higher to edit and regenerate the project 
 
 ## Hardware Setup
 
